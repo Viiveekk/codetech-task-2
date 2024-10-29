@@ -18,4 +18,9 @@ Data Retrieval: Ability to retrieve database names, table names, and column name
 Support for Multiple DBMS: Works with a wide range of databases, including MySQL, Oracle, PostgreSQL, and more.
 Brute Force: Supports user enumeration and password brute-forcing for various database systems.
 Customizable: Highly customizable with options to configure request headers, cookies, and user-defined SQL queries.
-Output Formats: Supports multiple output formats including JSON, XML, CSV, and HTML for extracted data.
+Output Formats: Supports multiple output formats including JSON, XML, CSV, and HTML for extracted data.![Capture](https://github.com/user-attachments/assets/dc682e3d-cae1-4bb7-8721-2df839a54ce0)
+![tables](https://github.com/user-attachments/assets/2906b6c0-a6ad-4554-b6f4-27817c4c71bd)
+![admin](https://github.com/user-attachments/assets/35efd13b-333d-4689-ba68-2479b5e96526)
+
+
+
